@@ -109,4 +109,4 @@ Simply open `campushub.html` in any browser — no server needed.
 
 ---
 
-*Built by [Rikhil Siripurapu](https://github.com/rikhil-33) — KL University, CSE AI/ML · Batch of 2028*
+*Built by [Rikhil Siripurapu](https://github.com/rikhil-33) — KL University, CSE AI/ML · Batch of 2029*
